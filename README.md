@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hecker2000
+- 👀 I’m interested in malware
+- 🌱 I’m currently learning about making malware
